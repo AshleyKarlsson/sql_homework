@@ -2,10 +2,12 @@
 
 Includes: 
 
-(1) image file of my ERD
+(1) Image file of my ERD (.png)
 
-(2) .sql file of my table schemata
+(2) Table schemata file (.sql)
 
-(3) .sql file of my queries
+(3) Queries file (.sql)
 
-(4) .csv files of query results
+(4) Query result files (.csv)
+
+(5) Bonus file (.ipynb)
